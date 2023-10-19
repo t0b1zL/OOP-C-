@@ -1,0 +1,15 @@
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\bin\Debug\net7.0\1zavd.exe
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\bin\Debug\net7.0\1zavd.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\bin\Debug\net7.0\1zavd.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\bin\Debug\net7.0\1zavd.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\bin\Debug\net7.0\1zavd.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\refint\1zavd.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\1zavd.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1zavd\obj\Debug\net7.0\ref\1zavd.dll

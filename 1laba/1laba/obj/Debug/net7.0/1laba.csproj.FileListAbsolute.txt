@@ -1,0 +1,15 @@
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\bin\Debug\net7.0\1laba.exe
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\bin\Debug\net7.0\1laba.deps.json
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\bin\Debug\net7.0\1laba.runtimeconfig.json
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\bin\Debug\net7.0\1laba.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\bin\Debug\net7.0\1laba.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.csproj.AssemblyReference.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.AssemblyInfoInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.AssemblyInfo.cs
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.csproj.CoreCompileInputs.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\refint\1laba.dll
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.pdb
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\1laba.genruntimeconfig.cache
+C:\Users\vadim\OneDrive\Рабочий стол\software engine\OOP\1laba\1laba\obj\Debug\net7.0\ref\1laba.dll
